@@ -1,4 +1,4 @@
-# Mini-SQL
+# Ask a Query!
 A mini sql engine supporting basic sql queries using python.
 
 ## Query Support:
